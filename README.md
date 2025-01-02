@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amanjhagta
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+- 👀 Interested in Data Science in Fintech
+- 🌱 Currently Persuing MS in Financial Analytics at Clark University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/aman-jhagta-a9124238
 
