@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Science, Python, PostgreSQL, BigQuery**
 
-- 📫 How to reach me **aaman@clarku.edu**
+- 📫 How to reach me **j.amanjhagta@gmail.com**
 
 - ⚡ Fun fact **My favorite challenge is working through complex datasets to extract insights that support informed business decisions.**
 
